@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elshobah
 - 👀 I’m interested in PHP language
-- 🌱 I’m currently learning Laravel Framework
+- 🌱 Wordpress, Laravel and Next.js specialits
 - 📫 Website: elshobah.com
 - 😙 instagram: @elshobah
 - ✌️ email: shobahel@gmail.com

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elshobah
-- 👀 I’m interested in PHP language
-- 🌱 Wordpress, Laravel and Next.js specialits
+- 👀 I’m interested in PHP & Javascript
+- 🌱 React, Radix-ui, Shadcn-ui, Laravel, Tailwind CSS, Wordpress and Next.js specialits
 - 📫 Website: https://elshobah.com
 - 😙 instagram: @elshobah
 - ✌️ email: suport@elshobah.com
@@ -25,3 +25,5 @@ Focuses on services and development of websites, applications, information syste
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+<br>
